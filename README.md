@@ -1,2 +1,2 @@
 # FH1
-#create account and learn github
+#Data science github repository
